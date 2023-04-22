@@ -19,7 +19,7 @@ I'm a Full Stack Developer  👨‍💻
 
 ### Some Stats About Me
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=HomieeQuan&show_icons=true&theme=merko"  > </p>
+<img alt="TaQuan github stats" src="https://github-readme-stats.vercel.app/api?username=HomieeQuan&show_icons=true&theme=merko"  > </p>
 
 <!-- Social -->
 <table width="100%" align="center">
