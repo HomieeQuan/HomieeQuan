@@ -2,7 +2,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm TaQuan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HomieeQuan" alt="HomieeQuan" /> </p>
    
-I'm a Full Stack Developer  👨‍💻
+I'm a Cloud / Software Engineer 👨‍💻
 
 - 🔭 I’m currently working on giving myself grace
 - 🌱 I’m currently learning about Microsoft Azure and Docker
